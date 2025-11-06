@@ -11,25 +11,6 @@ Highlights:
 - ❤️ Add Recipes to Favorites and Access Them from Favorites Tab
 - ⚡ Tech Stack: React Native + Express + PostgreSQL + Expo
 - 🌈 Includes 8 Color Themes
-- 🆓 100% Free Tools — No Paid Services Required
-
----
-
-## 🧪 .env Setup
-
-### Backend (`/backend`)
-
-```bash
-PORT=5001
-DATABASE_URL=your_neon_db_url
-NODE_ENV=development
-```
-
-### Mobile App (`/mobile`)
-
-```bash
-EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-```
 
 ---
 
@@ -48,3 +29,4 @@ cd mobile
 npm install
 npx expo start
 ```
+
